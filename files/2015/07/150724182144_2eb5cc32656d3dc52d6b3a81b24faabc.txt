@@ -1,0 +1,28 @@
+Registros de ejemplo
+
+1141688533P00005101546A          PC   P                                                                                                                           Movi         
+1141688534G89540751007A          PN   P                                                                                                                           Movi         
+1141688535#30709776564MNGSM   01EEE000CM_CELAMBA               00000000000 NPERGSM                                    031001A CM_CELAB            0000                         
+1141688536D00038421501A          IN   C                                                                                                                           Movi         
+1141688537G89540751003A          PC   P                                                                                                                           Movi         
+1141688538D00022668288A          IC   F                                                                                                                           Movi         
+1141688539G89540751006A          PC   P                                                                                                                           Movi         
+1141688540G89540781006A          PN   P                                                                                                                           Movi         
+
+Analisis:
+
+SNB        
+           TipoDocumento
+             NumeroDocumento
+                         SistemaGestion
+                                     Nivel	
+											Producto
+1141688533 P 00005101546 A           PC     P                                                                                                                           Movi         
+1141688534 G 89540751007 A           PN     P                                                                                                                           Movi         
+1141688535 # 30709776564 M NGSM   01EEE 000 CM_CEL AMBA               00000000000 NPERGSM                                    031001A CM_CELAB            0000                         
+1141688536 D 00038421501 A           IN     C                                                                                                                           Movi         
+1141688537 G 89540751003 A           PC     P                                                                                                                           Movi         
+1141688538 D 00022668288 A           IC     F                                                                                                                           Movi         
+1141688539 G 89540751006 A           PC     P                                                                                                                           Movi         
+1141688540 G 89540781006 A           PN     P                                                                                                                           Movi         
+
